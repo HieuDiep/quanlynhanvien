@@ -1,0 +1,30 @@
+    input[type=text]:hover {
+        border-color: #019160;
+    }
+    input[type=text].input-search {
+        background-image: url('../../assets/icon/search.png');
+        background-repeat: no-repeat;
+        background-position-y: center;
+        background-position-x: 16px;
+        background-size: 20px;
+        padding-left: 40px;
+    }
+    input[type=text]:hover {
+        border-color: #019160;
+    }
+    .input-search {
+        background-image: url('../../assets/icon/search.png');
+        background-repeat: no-repeat;
+        background-position-y: center;
+        background-position-x: 16px;
+        background-size: 20px;
+        padding-left: 40px;
+        height: 40px;
+        width: 100%;
+        border: 1px solid #bbbbbb;
+        padding-left: 16px;
+        padding-right: 16px;
+        border-radius: 4px;
+        outline: none;
+        box-sizing: border-box;
+    }

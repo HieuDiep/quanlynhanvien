@@ -1,0 +1,15 @@
+
+select {
+    height: 40px;
+    width: 100%;
+    border: 1px solid #bbbbbb;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+select:hover {
+        border-color: #019160;
+    }
